@@ -1,4 +1,5 @@
 import {
+  Box,
   createStyles,
   Text,
   Grid,
@@ -9,7 +10,7 @@ import {
   Anchor,
   Stack,
   Flex,
-  Box,
+ 
 } from "@mantine/core";
 import { IconHeadphones } from "@tabler/icons-react";
 import { IconSend } from "@tabler/icons-react";
